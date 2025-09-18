@@ -1,0 +1,25 @@
+img{
+    width: 20%;
+   margin-left: 530px;
+}
+
+img:hover{
+     border: 2px solid rgb(0, 0, 0);
+     width: 20%;
+     
+}
+
+p{text-align:center}
+p ::first-letter{font-size:xx-large;}
+
+p:hover{
+    border: 2px solid color(from rgb(0, 0, 0) srgb r g b)
+}
+
+
+.r{
+    margin-left: 500px;
+}
+
+
+
